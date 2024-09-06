@@ -23,5 +23,5 @@ ___________________________________________________________
 ## 🚀 About me:
 - 🔭 Currently working on **Different stuff**.
 - 🌱 Learn more about **CSS, JS, PHP, SQL**.
-- ✍️ Contact [Discord](retro5475) .
+- ✍️ Contact [Discord](discord.txt) .
 ___________________________________________________________
