@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @retro5475
-- 👀 I’m interested in S4League ig..
-- 🌱 I’m currently learning C#, C++
-- 📫 How to reach me [Discord: = retro5475]
-- 😄 Pronouns: [Default-Settings]
-- ⚡ Fun fact: Bananas are crooked 
+# Hi, I'm Retro5475! 👋 
 
-<!---
-retro5475/retro5475 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+___________________________________________________________
+
+Welcome to my profile! I work passionately on projects.
+
+
+___________________________________________________________
+My Skills:
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+___________________________________________________________
+
+
+## 📅 ​​Daily Quote
+<!-- Zitat Bereich -->
+> "Innovation distinguishes between a leader and a follower." - Steve Jobs
+
+___________________________________________________________
+## 🚀 About me:
+- 🔭 Currently working on **Different stuff**.
+- 🌱 Learn more about **CSS, JS, PHP, SQL**.
+- ✍️ Contact [Discord](retro5475) .
+___________________________________________________________

@@ -1,0 +1,29 @@
+name: Update daily quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Täglich um Mitternacht
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Run Python script
+        run: python update_quote.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'retro5475'
+          git config --global user.email 'retro5475@example.com'
+          git add README.md
+          git commit -m "Update daily quote"
+          git push
