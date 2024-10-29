@@ -51,7 +51,7 @@ Feel free to check out my repositories for more.
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="/blob/discord.txt"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="/blob/discord.md"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
