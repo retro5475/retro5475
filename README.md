@@ -6,12 +6,12 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50">
 </div>
 
-<p align="center">💻 Passionate about Software Development | 🌍 Based in <strong>Germany</strong> | 🚀 Building open-source projects</p>
+<p align="center">💻 Software Development | 🌍 Based in <strong>Germany</strong> | 🚀 Building open-source projects</p>
 
 ---
 
 ## 📌 About Me
-Hi, I'm **Retro5475**, a passionate developer with a love for retro tech and open-source. Here you'll find my latest projects, ideas, and collaborations. When I'm not coding, I enjoy playing retro games 🎮 and exploring tech history.
+Hi, I'm **Retro5475**, a passionate developer with a love for retro tech and open-source. 🎮
 
 - 🌱 Currently learning **C++** and **C#**
 - 💡 Interested in **Backend Development**, **APIs**, and **Automation**
