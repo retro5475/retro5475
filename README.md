@@ -35,8 +35,6 @@ Hi, I'm **Retro5475**, a passionate developer with a love for retro tech and ope
 ## 🚀 Projects
 Here are a few selected projects:
 
-- **[Netsphere]([https://github.com/retro5475/project-one](https://github.com/S4Netsphere))**:. ⚙️
-
 Feel free to check out my repositories for more.
 
 ---
