@@ -6,7 +6,6 @@
 ---
 
 ## 📌 About Me
-Hi, I'm **Retro5475**, a passionate developer with a love for retro tech and open-source. 🎮
 
 - 🌱 Currently learning **C++** and **C#**
 - 💡 Interested in **Backend Development**, **APIs**, and **Automation**
