@@ -10,7 +10,7 @@
 
 ## 📫 How to Find Me on Discord
 
-### 🔹 Username: **Retro5475#1234**
+### 🔹 Username: **shadow5475.cs**
 Feel free to add me directly by username!
 ---
 
