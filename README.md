@@ -10,7 +10,7 @@
 - 🌱 Currently learning **C++** and **C#**
 - 💡 Interested in **Backend Development**, **APIs**, and **Automation**
 - ⚡ Fun fact: I’m a big fan of Anime games!
-- Training as a vehicle mechatronics technician
+- Training as a vehicle mechatronics engineer in high-voltage technology
 - Born in Germany
 
 ---
