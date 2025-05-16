@@ -28,10 +28,7 @@
 
 ---
 
-## 🚀 Projects
-Here are a few selected projects:
 
-Feel free to check out my repositories for more.
 
 ---
 
